@@ -30,5 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
