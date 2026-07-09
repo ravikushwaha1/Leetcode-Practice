@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
