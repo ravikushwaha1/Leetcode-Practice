@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
