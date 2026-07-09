@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1859-sorting-the-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2716-minimize-string-length](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2810-faulty-keyboard) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
