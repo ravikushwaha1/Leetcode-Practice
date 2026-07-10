@@ -67,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0185-department-top-three-salaries) |
+| [0601-human-traffic-of-stadium](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
