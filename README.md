@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
