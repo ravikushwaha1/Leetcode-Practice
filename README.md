@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
