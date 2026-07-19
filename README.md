@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2716-minimize-string-length) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
