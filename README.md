@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1859-sorting-the-sentence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
