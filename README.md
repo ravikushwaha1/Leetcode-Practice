@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1859-sorting-the-sentence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
