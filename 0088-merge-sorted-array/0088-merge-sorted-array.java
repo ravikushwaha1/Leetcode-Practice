@@ -1,0 +1,22 @@
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //Scanner sc = new Scanner(System.in);
+
+        //int m = sc.nextInt();
+        //int n = sc.nextInt();
+        int[] arr = new int[m + n];
+
+        for(int i = 0;i < m;i++){
+            arr[i] = nums1[i];
+        }
+
+        for(int i = 0; i < n;i++){
+            arr[m + i] = nums2[i];
+        }
+        Arrays.sort(arr);
+        
+        for(int i = 0; i < m + n;i++){
+            nums1[i] = arr[i];
+        }
+    }
+}
