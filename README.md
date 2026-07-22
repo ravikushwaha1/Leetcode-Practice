@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
