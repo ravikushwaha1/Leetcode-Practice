@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0097-interleaving-string) |
+| [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
