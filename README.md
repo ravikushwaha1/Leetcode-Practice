@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2716-minimize-string-length](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2716-minimize-string-length) |
