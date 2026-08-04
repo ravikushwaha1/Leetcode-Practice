@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2716-minimize-string-length](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2810-faulty-keyboard) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3731-find-missing-elements) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
