@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0097-interleaving-string) |
+| [0415-add-strings](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0415-add-strings) |
 | [1446-consecutive-characters](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0415-add-strings) |
 | [2810-faulty-keyboard](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2810-faulty-keyboard) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0877-stone-game) |
