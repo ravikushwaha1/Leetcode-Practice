@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2716-minimize-string-length) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1528-shuffle-string) |
+| [1748-sum-of-unique-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
