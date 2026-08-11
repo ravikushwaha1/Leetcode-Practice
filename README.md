@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1748-sum-of-unique-elements) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0415-add-strings) |
 | [1446-consecutive-characters](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
