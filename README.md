@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1748-sum-of-unique-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0561-array-partition) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravikushwaha1/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
